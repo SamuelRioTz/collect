@@ -78,7 +78,7 @@ android {
         applicationId('bo.com.nexion.collect')
         minSdkVersion rootProject.androidMinSdk
         targetSdkVersion rootProject.androidTargetSdk
-        versionCode 7
+        versionCode 8
         versionName "1.0.1"
         testInstrumentationRunner('androidx.test.runner.AndroidJUnitRunner')
         multiDexEnabled true
