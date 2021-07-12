@@ -54,7 +54,7 @@ class SplashScreenActivity : AppCompatActivity() {
     }
 
     private fun endSplashScreen() {
-        ActivityUtils.startActivityAndCloseAllOthers(this, MainMenuActivity::class.java)
+        ActivityUtils.startActivityAndCloseAllOthers(this, MainActivity::class.java)
     }
 
     private fun startSplashScreen() {
