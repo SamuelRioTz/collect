@@ -12,6 +12,9 @@ import org.json.JSONObject;
 import org.odk.collect.android.R;
 import org.odk.collect.android.application.Collect;
 
+import org.odk.collect.android.preferences.keys.MetaKeys;
+import org.odk.collect.android.preferences.source.SettingsProvider;
+import org.odk.collect.android.projects.ProjectImporter;
 import org.odk.collect.shared.Settings;
 
 import java.io.BufferedReader;
@@ -25,38 +28,25 @@ import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
 
-import javax.inject.Inject;
 import javax.net.ssl.HttpsURLConnection;
 import org.odk.collect.android.injection.DaggerUtils;
-
-import static org.odk.collect.android.preferences.PrefUtils.getSharedPrefs;
-
-//import io.flutter.embedding.android.FlutterActivity;
-//import io.flutter.embedding.engine.FlutterEngine;
-//import io.flutter.embedding.engine.FlutterEngineCache;
-//import io.flutter.embedding.engine.dart.DartExecutor;
-//import io.flutter.plugin.common.MethodChannel;
 
 public class MainActivity extends CollectAbstractActivity {
 
     View loginLayout;
     View landingLayout;
 
-
-    @Inject
-    Settings generalSharedPreferences=getSharedPrefs();
+    SettingsProvider settingsProvider=DaggerUtils.getComponent(Collect.getInstance()).settingsProvider();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Collect.getInstance().getComponent().inject(this);
         setContentView(R.layout.main_activity);
 
-//        configureFlutterModule();
         configureLandingLayout();
         configureLoginLayout();
 
-        String odk_server_url = (String) generalSharedPreferences.getString("support_api_token");
+        String odk_server_url = settingsProvider.getGeneralSettings().getString("support_api_token");
         showLogin(odk_server_url == null);
     }
 
@@ -77,9 +67,8 @@ public class MainActivity extends CollectAbstractActivity {
                 new Intent(this, MainMenuActivity.class)
         ));
         findViewById(R.id.option3).setOnClickListener(v -> {
-//            startActivity(new Intent(this, PreferencesActivity.class));
-            generalSharedPreferences.clear();
-            showLogin(true);
+            DaggerUtils.getComponent(Collect.getInstance()).settingsProvider().clearAll();
+            startActivity(new Intent(this, SplashScreenActivity.class));
         });
     }
 
@@ -111,13 +100,14 @@ public class MainActivity extends CollectAbstractActivity {
                 try {
                     JSONObject response = performPostCall("https://support.nexion-dev.tk/login", body);
                     String support_api_token = response.getString("authToken");
-                    generalSharedPreferences.save("support_api_token", support_api_token);
-                    generalSharedPreferences.save("server_url", server_url);
-                    generalSharedPreferences.save("username", username);
-                    generalSharedPreferences.save("password", password);
+                    settingsProvider.getGeneralSettings().save("support_api_token", support_api_token);
+                    settingsProvider.getGeneralSettings().save("server_url", server_url);
+                    settingsProvider.getGeneralSettings().save("username", username);
+                    settingsProvider.getGeneralSettings().save("password", password);
                     runOnUiThread(() -> {
                         showLogin(false);
-
+                        loginUser.setText("");
+                        loginPassword.setText("");
                         loginError.setText("");
                         loginUser.setEnabled(true);
                         loginPassword.setEnabled(true);
@@ -184,31 +174,4 @@ public class MainActivity extends CollectAbstractActivity {
         }
         return new JSONObject(response.toString());
     }
-
-//    private void configureFlutterModule() {
-//
-//        FlutterEngine flutterEngine = new FlutterEngine(this);
-//
-//        flutterEngine.getDartExecutor().executeDartEntrypoint(
-//                DartExecutor.DartEntrypoint.createDefault()
-//        );
-//        new MethodChannel(flutterEngine.getDartExecutor().getBinaryMessenger(), "FLUTTER_MODULE")
-//                .setMethodCallHandler(
-//                        (call, result) -> {
-//                            if (call.method.equals("GET_ALL_PREFERENCES")) {
-//                                result.success(generalSharedPreferences.getAll());
-//                            }else if (call.method.equals("GET_TOKEN")) {
-//                                result.success(generalSharedPreferences.get("support_api_token"));
-//                            }
-//                        }
-//                );
-//
-//        FlutterEngineCache
-//                .getInstance()
-//                .put("my_engine_id", flutterEngine);
-//
-//        findViewById(R.id.option1).setOnClickListener(v -> startActivity(
-//                FlutterActivity.withCachedEngine("my_engine_id").build(this)
-//        ));
-//    }
 }

@@ -23,10 +23,18 @@ import kotlinx.coroutines.launch
 import org.odk.collect.android.activities.viewmodels.SplashScreenViewModel
 import org.odk.collect.android.databinding.SplashScreenBinding
 import org.odk.collect.android.injection.DaggerUtils
+import org.odk.collect.android.projects.CurrentProjectProvider
+import org.odk.collect.android.projects.ProjectImporter
+import org.odk.collect.android.version.VersionInformation
+import org.odk.collect.projects.Project
 import javax.inject.Inject
 
 class SplashScreenActivity : AppCompatActivity() {
+    @Inject
+    lateinit var projectImporter: ProjectImporter
 
+    @Inject
+    lateinit var currentProjectProvider: CurrentProjectProvider
     @Inject
     lateinit var splashScreenViewModelFactoryFactory: SplashScreenViewModel.Factory
 
@@ -40,20 +48,22 @@ class SplashScreenActivity : AppCompatActivity() {
         setContentView(binding.root)
         DaggerUtils.getComponent(this).inject(this)
         viewModel = ViewModelProvider(this, splashScreenViewModelFactoryFactory)[SplashScreenViewModel::class.java]
-        init()
+        endSplashScreen()
     }
 
-    private fun init() {
-        when {
-            viewModel.shouldFirstLaunchScreenBeDisplayed -> {
-                ActivityUtils.startActivityAndCloseAllOthers(this, FirstLaunchActivity::class.java)
-            }
-            viewModel.shouldDisplaySplashScreen -> startSplashScreen()
-            else -> endSplashScreen()
-        }
-    }
+//    private fun init() {
+//        when {
+//            viewModel.shouldFirstLaunchScreenBeDisplayed -> {
+//                ActivityUtils.startActivityAndCloseAllOthers(this, FirstLaunchActivity::class.java)
+//            }
+//            viewModel.shouldDisplaySplashScreen -> startSplashScreen()
+//            else -> endSplashScreen()
+//        }
+//    }
 
     private fun endSplashScreen() {
+        projectImporter.importNewProject(Project.DEMO_PROJECT)
+        currentProjectProvider.setCurrentProject(Project.DEMO_PROJECT_ID)
         ActivityUtils.startActivityAndCloseAllOthers(this, MainActivity::class.java)
     }
 
