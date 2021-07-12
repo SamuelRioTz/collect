@@ -66,7 +66,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Obtenir la permission des comptes</string>
   <string name="get_accounts_runtime_permission_denied_desc">Sans cette autorisation, Collect ne peut pas accéder aux comptes. Veuillez réessayer lorsque vous êtes prêt à l’accorder.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Lire la permission de l\'état du téléphone</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect ne passe pas d\'appels, mais il doit accéder à certaines propriétés de votre périphérique, telles que le numéro de téléphone et l\'ID de périphérique.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">PA 2030 Collect ne passe pas d\'appels, mais il doit accéder à certaines propriétés de votre périphérique, telles que le numéro de téléphone et l\'ID de périphérique.</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -756,7 +756,7 @@
   <string name="leave_a_review">Laissez un avis sur Play Store</string>
   <string name="leave_a_review_msg">Votre avis (ce qu\'on espère est positif) augmente la visibilité de l\'application dans le Play Store.</string>
   <string name="odk_website">Visiter le site web de Open Data Kit</string>
-  <string name="odk_website_summary">ODK est utilisé pour collecter des données pour le bien commun dans des environnements contraignantes.</string>
+  <string name="odk_website_summary">PA 2030 est utilisé pour collecter des données pour le bien commun dans des environnements contraignantes.</string>
   <string name="odk_forum">Rejoindre le Forum ODK</string>
   <string name="odk_forum_summary">Rejoignez le forum pour obtenir de l\'aide, demander des fonctionnalités, contribuer au code et aux traductions! </string>
   <string name="all_open_source_licenses">Licences et librairies open source</string>

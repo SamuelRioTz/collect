@@ -66,7 +66,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Získat oprávnění k účtům</string>
   <string name="get_accounts_runtime_permission_denied_desc">Bez tohoto povolení Collect nemůže přistupovat k účtům. Zkuste to prosím znovu, až budete  připraveni jej udělit.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Přečtěte si povolení k telefonu</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect neprovádí volání, ale potřebuje přístup k určitým vlastnostem vašeho zařízení, jako je například telefonní číslo a device ID.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">PA 2030 Collect neprovádí volání, ale potřebuje přístup k určitým vlastnostem vašeho zařízení, jako je například telefonní číslo a device ID.</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -762,7 +762,7 @@
   <string name="leave_a_review">Nechte recenzi v Play Store</string>
   <string name="leave_a_review_msg">Vaše recenze (snad pozitivní) zvyšuje viditelnost aplikace v Play Store.</string>
   <string name="odk_website">Navštivte web ODK</string>
-  <string name="odk_website_summary">ODK se používá ke sběru dat pro sociální dobro v náročných prostředích.</string>
+  <string name="odk_website_summary">PA 2030 se používá ke sběru dat pro sociální dobro v náročných prostředích.</string>
   <string name="odk_forum">Připojit se k fóru ODK</string>
   <string name="odk_forum_summary">Připojte se na fórum, abyste získali podporu, žádali o nové funkce aplikace, přispěli kódem / překlady!</string>
   <string name="all_open_source_licenses">Open source knihovny / licence</string>

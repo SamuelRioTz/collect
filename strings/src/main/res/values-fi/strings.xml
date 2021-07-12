@@ -66,7 +66,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Hae tilin käyttöluvat</string>
   <string name="get_accounts_runtime_permission_denied_desc">Ilman tätä käyttölupaa Collect ei voi saada yhteyttää tileihin. Ole hyvä ja yritä uudestaan kun olet valmis myöntämään sen.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Puhelimen tilan lukemisen käyttölupa</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect ei soita puheluita, mutta se tarvitsee tiedot joistakin laitteesi tiedoista, kuten puhelinnumero ja laitteen ID.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">PA 2030 Collect ei soita puheluita, mutta se tarvitsee tiedot joistakin laitteesi tiedoista, kuten puhelinnumero ja laitteen ID.</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -489,8 +489,8 @@
   <string name="media_upload_error">Palvelimelle ei voida siirtää tiedostoa, jota ei ole olemassa: %1$s</string>
   <string name="send_in_progress">Taustalähetys käynnissä, yritä hetken kuluttua uudestaan</string>
   <string name="odk_permissions_fail">Automaattisella ODK-lähetyksellä käyttölupavirhe, varmista että olet antanut sovellukselle kaikki tarvittavat käyttöluvat</string>
-  <string name="odk_auto_note">ODK automaattisen lähetyksen tulokset</string>
-  <string name="odk_auto_download_notification_title">ODK automaattisen lataamisen tulokset</string>
+  <string name="odk_auto_note">PA 2030 automaattisen lähetyksen tulokset</string>
+  <string name="odk_auto_download_notification_title">PA 2030 automaattisen lataamisen tulokset</string>
   <string name="notification_error">Virhe näyttäessä ilmoitustekstiä</string>
   <!--##############################################
     # GET BLANK FORM
@@ -553,9 +553,9 @@
   <string name="change_server_url">Palvelimen URL</string>
   <string name="url_error">Pahoittelut, URL ei kelpaa! </string>
   <string name="username">Käyttäjätunnus</string>
-  <string name="change_username">ODK käyttäjätunnus</string>
+  <string name="change_username">PA 2030 käyttäjätunnus</string>
   <string name="password">Salasana</string>
-  <string name="change_password">ODK salasana</string>
+  <string name="change_password">PA 2030 salasana</string>
   <string name="password_error_whitespace">Salasanan alussa tai lopussa ei saa olla välilyöntimerkkejä</string>
   <string name="username_error_whitespace">Käyttäjänimen alussa tai lopussa ei saa olla välilyöntimerkkejä</string>
   <string name="custom_server_paths">Mukautetut palvelinpolut</string>
@@ -594,7 +594,7 @@
   <string name="show_splash_title">Aloitusruutu</string>
   <string name="show_splash_summary">Näytä sovelluksen käynnistyessä</string>
   <string name="splash_path">Valittu aloitusruutu</string>
-  <string name="default_splash_path">ODK oletus</string>
+  <string name="default_splash_path">PA 2030 oletus</string>
   <string name="select_another_image">Valitse toinen kuva</string>
   <string name="use_odk_default">Käytä oletuskuvaa</string>
   <string name="change_splash_path">Vaihda kuva</string>

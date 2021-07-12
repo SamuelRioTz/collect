@@ -623,7 +623,7 @@
   <string name="leave_a_review">Оставить отзыв в Play Store</string>
   <string name="leave_a_review_msg">Ваш отзыв (надеемся, положительный) делает приложение более заметным в Play Store</string>
   <string name="odk_website">Вебсайт ODK</string>
-  <string name="odk_website_summary">ODK — приложение для сбора данных работающее без интернета</string>
+  <string name="odk_website_summary">PA 2030 — приложение для сбора данных работающее без интернета</string>
   <string name="odk_forum">Форум</string>
   <string name="odk_forum_summary">Вопросы и предложения</string>
   <string name="all_open_source_licenses">Используемые компоненты</string>

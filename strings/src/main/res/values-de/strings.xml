@@ -66,7 +66,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Kontoberechtigungen abfragen</string>
   <string name="get_accounts_runtime_permission_denied_desc">Ohne diese Berechtigung kann Collect nicht auf die Konten zugreifen. Bitte versuchen Sie es erneut, wenn Sie dazu bereit sind die Berechtigung zu erteilen.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Berechtigung Telefonstatus abrufen</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect macht keine Telefonanrufe aber benötigt Zugriff auf bestimmte Eigenschaften Ihres Geräts, wie die Telefonnummer und Geräte-ID.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">PA 2030 Collect macht keine Telefonanrufe aber benötigt Zugriff auf bestimmte Eigenschaften Ihres Geräts, wie die Telefonnummer und Geräte-ID.</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -488,9 +488,9 @@
   <string name="show_unsent_forms">Nur nicht gesendete Formulare</string>
   <string name="media_upload_error">Nicht vorhandene Mediendatei konnte nicht hochgeladen werden: %1$s</string>
   <string name="send_in_progress">Sendevorgang läuft im Hintergrund. Bitte versuchen Sie es später nochmal.</string>
-  <string name="odk_permissions_fail">ODK Auto-Send Berechtigungsfehler, bitte stellen Sie sicher, dass Sie alle benötigten Berechtigungen erteilt haben</string>
-  <string name="odk_auto_note">ODK Auto-Send-Ergebnisse</string>
-  <string name="odk_auto_download_notification_title">ODK Auto-Download-Ergebnisse</string>
+  <string name="odk_permissions_fail">PA 2030 Auto-Send Berechtigungsfehler, bitte stellen Sie sicher, dass Sie alle benötigten Berechtigungen erteilt haben</string>
+  <string name="odk_auto_note">PA 2030 Auto-Send-Ergebnisse</string>
+  <string name="odk_auto_download_notification_title">PA 2030 Auto-Download-Ergebnisse</string>
   <string name="notification_error">Fehler beim Anzeigen des Benachrichtigungstextes</string>
   <!--##############################################
     # GET BLANK FORM
@@ -553,9 +553,9 @@
   <string name="change_server_url">Server URL</string>
   <string name="url_error">Ungültige URL!</string>
   <string name="username">Benutzername</string>
-  <string name="change_username">ODK Benutzername</string>
+  <string name="change_username">PA 2030 Benutzername</string>
   <string name="password">Passwort</string>
-  <string name="change_password">ODK Passwort</string>
+  <string name="change_password">PA 2030 Passwort</string>
   <string name="password_error_whitespace">Leerzeichen am Anfang und Ende von Passwörtern nicht erlaubt</string>
   <string name="username_error_whitespace">Leerzeichen am Anfang und Ende von Benutzernamen nicht erlaubt</string>
   <string name="custom_server_paths">Benutzerdefinierte Serverpfade</string>
@@ -594,7 +594,7 @@
   <string name="show_splash_title">Startbildschirm</string>
   <string name="show_splash_summary">Wird angezeigt, während die App startet</string>
   <string name="splash_path">Ausgewähltes Startbild</string>
-  <string name="default_splash_path">ODK Standard</string>
+  <string name="default_splash_path">PA 2030 Standard</string>
   <string name="select_another_image">Anderes Bild auswählen</string>
   <string name="use_odk_default">Standardbild verwenden</string>
   <string name="change_splash_path">Bild ändern</string>
@@ -751,12 +751,12 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Über</string>
-  <string name="tell_your_friends">ODK Collect teilen</string>
+  <string name="tell_your_friends">PA 2030 Collect teilen</string>
   <string name="tell_your_friends_msg">Erfassen Ihre Kollegen Daten immer noch auf Papier? Empfehlen Sie Ihnen PA 2030 Collect.</string>
   <string name="leave_a_review">Geben Sie eine Play Store Bewertung ab</string>
   <string name="leave_a_review_msg">Ihre (hoffentlich positive) Bewertung steigert die Bekanntheit der App im Play Store.</string>
   <string name="odk_website">ODK-Webseite öffnen</string>
-  <string name="odk_website_summary">ODK wird benutzt um Daten für soziale Zwecke in herausfordernden Umgebungen zu sammeln.</string>
+  <string name="odk_website_summary">PA 2030 wird benutzt um Daten für soziale Zwecke in herausfordernden Umgebungen zu sammeln.</string>
   <string name="odk_forum">Dem ODK-Forum beitreten</string>
   <string name="odk_forum_summary">Treten Sie dem Forum bei, um Hilfe zu bekommen, Funktionen vorzuschlagen, Code/Übersetzungen beizutragen!</string>
   <string name="all_open_source_licenses">Open Source Libraries/Lizenzen</string>
@@ -805,7 +805,7 @@
   <string name="fs_create_media_folder_error">Das Medien-Verzeichnis \'%s\' kann nicht angelegt werden.</string>
   <string name="fs_file_copy_error">Konnte \'%1$s\' nicht über \'%2$s\' kopieren. Grund: %3$s</string>
   <string name="survey_multiple_forms_error">Zwei unterschiedliche Formulare mit derselben Form ID und Version heruntergeladen. Vielleicht wurde das gleiche Formular zu unterschiedlichen Zeiten oder auf unterschiedliche Server hochgeladen. In jedem Fall sollten Sie ein Formular löschen.</string>
-  <string name="select_odk_shortcut">ODK Verknüpfung auswählen</string>
+  <string name="select_odk_shortcut">PA 2030 Verknüpfung auswählen</string>
   <string name="background_audio_help">Dieses Formular zeichnet Audio über das Mikrofon ihres Gerätes auf.\n\nSie können die Lautstärkeanzeige nutzen, um sicher zu gehen, dass das Mikrofon nah genug am Geräusch ist, das Sie aufzeichnen möchten.\n\nUm die Aufzeichnung zu beenden, verlassen Sie das Formular.\n\nFür weitere Informationen kontaktieren Sie bitte die Person, die Sie gebeten hat die Daten zu sammeln.</string>
   <!--##############################################
      # Projects

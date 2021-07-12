@@ -311,7 +311,7 @@
   <!--Title of dialog for configuring server URL-->
   <string name="url_error">Napaka, neveljaven URL!</string>
   <string name="username">Uporabniško ime</string>
-  <string name="change_username">ODK uporabniško ime</string>
+  <string name="change_username">PA 2030 uporabniško ime</string>
   <string name="password">Geslo</string>
   <string name="change_password">ODk geslo</string>
   <string name="password_error_whitespace">Presledki na začetku ali na koncu gesla niso dovoljeni</string>
@@ -346,7 +346,7 @@
   <!--Text for navigation button showed at the bottom of a form that's being filled. Try to use a short word common for navigation.-->
   <string name="show_splash_summary">Vidna ob zagonu aplikacije</string>
   <string name="splash_path">Izbrana zagonska slika</string>
-  <string name="default_splash_path">ODK privzeto</string>
+  <string name="default_splash_path">PA 2030 privzeto</string>
   <string name="select_another_image">Izberi drugo sliko</string>
   <string name="use_odk_default">Uporabi privzeto sliko</string>
   <string name="change_splash_path">Zamenjaj sliko</string>

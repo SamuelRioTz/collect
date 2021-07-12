@@ -66,7 +66,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Izin untuk mengakses akun</string>
   <string name="get_accounts_runtime_permission_denied_desc">Tanpa perizinan tadi, Collect tidak dapat mengakses akun. Buka ulang aplikasi jika Anda sudah yakin untuk memberikan izin.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Izin untuk membaca status telepon</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect tidak akan melakukan panggilan telepon, tetapi PA 2030 Collect memerlukan akses ke beberapa informasi mengenai perangkat Anda, seperti nomor telepon dan ID perangkat.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">PA 2030 Collect tidak akan melakukan panggilan telepon, tetapi PA 2030 Collect memerlukan akses ke beberapa informasi mengenai perangkat Anda, seperti nomor telepon dan ID perangkat.</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -504,8 +504,8 @@
   <string name="form_update_error">Pembaruan formulir tidak berhasil</string>
   <string name="form_update_succeeded">Pembaruan formulir berhasil</string>
   <string name="report_to_project_lead">Jika anda terus mengalami masalah ini, laporkan ke orang yang meminta anda untuk mengumpulkan data.</string>
-  <string name="unreachable_error">ODK Collect tidak dapat menghubung server di %s. Apakah anda sudah memasukkan URL dengan benar?</string>
-  <string name="security_error">ODK Collect tidak dapat menghubung server di %s. Apakah anda sudah memasukkan URL dengan benar?</string>
+  <string name="unreachable_error">PA 2030 Collect tidak dapat menghubung server di %s. Apakah anda sudah memasukkan URL dengan benar?</string>
+  <string name="security_error">PA 2030 Collect tidak dapat menghubung server di %s. Apakah anda sudah memasukkan URL dengan benar?</string>
   <string name="server_error">Peladen %1$s rmengembalikan kode status %2$s.</string>
   <string name="invalid_response">Peladen %s mengembalikan respon tidak valid.</string>
   <string name="failure">Tidak Berhasil</string>
@@ -591,7 +591,7 @@
   <string name="show_splash_title">Tampilan pembuka aplikasi</string>
   <string name="show_splash_summary">Tampilkan pada awal aplikasi berjalan</string>
   <string name="splash_path">Gambar tampilan pembuka yang dipilih</string>
-  <string name="default_splash_path">ODK Bawaan</string>
+  <string name="default_splash_path">PA 2030 Bawaan</string>
   <string name="select_another_image">Pilih gambar lainnya</string>
   <string name="use_odk_default">Gunakan gambar bawaan</string>
   <string name="change_splash_path">Ubah gambar</string>
@@ -753,7 +753,7 @@
   <string name="leave_a_review">Berikan ulasan di Play Store</string>
   <string name="leave_a_review_msg">Ulasan Anda (semoga positif) dapat mempromosikan aplikasi PA 2030 di Play Store.</string>
   <string name="odk_website">Kunjungi situs PA 2030 </string>
-  <string name="odk_website_summary">ODK digunakan sebagai pengumpulan data untuk kepentingan sosial di lingkungan yang menantang.</string>
+  <string name="odk_website_summary">PA 2030 digunakan sebagai pengumpulan data untuk kepentingan sosial di lingkungan yang menantang.</string>
   <string name="odk_forum">Gabung forum ODK</string>
   <string name="odk_forum_summary">Bergabung di Forum untuk mendapatkan bantuan, permintaan fitur, berkontribusi kode program/terjemahan!</string>
   <string name="all_open_source_licenses">Lisensi/pustaka sumber terbuka</string>

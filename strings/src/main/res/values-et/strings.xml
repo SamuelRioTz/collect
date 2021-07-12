@@ -323,9 +323,9 @@
   <string name="change_server_url">Serveri veebiaadress</string>
   <string name="url_error">Vabandage, vale veebiaadress!</string>
   <string name="username">Kasutajanimi</string>
-  <string name="change_username">ODK kasutajanimi</string>
+  <string name="change_username">PA 2030 kasutajanimi</string>
   <string name="password">Salasõna</string>
-  <string name="change_password">ODK salasõna</string>
+  <string name="change_password">PA 2030 salasõna</string>
   <string name="password_error_whitespace">Salasõna alguses või lõpus ei ole lubatud kasutada tühikut</string>
   <string name="username_error_whitespace">Kasutajanime alguses või lõpus ei ole lubatud kasutada tühikut</string>
   <string name="change_formlist_url">Vormi nimekirja asukoht (lisatud veebiaadressile)</string>
@@ -352,7 +352,7 @@
   <!--Text for navigation button showed at the bottom of a form that's being filled. Try to use a short word common for navigation.-->
   <string name="show_splash_summary">Ilmub rakenduse avamisel</string>
   <string name="splash_path">Valitud käivitusekraani pilt</string>
-  <string name="default_splash_path">ODK vaikmisi</string>
+  <string name="default_splash_path">PA 2030 vaikmisi</string>
   <string name="select_another_image">Vali teine pilt</string>
   <string name="use_odk_default">Kasuta vaikimisi pildina</string>
   <string name="change_splash_path">Muuda pilti</string>

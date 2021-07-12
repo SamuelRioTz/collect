@@ -301,7 +301,7 @@
   <string name="form_backward">უკან</string>
   <string name="show_splash_summary">აჩვენებს, როდესაც ირთვება აპლიკაცია</string>
   <string name="splash_path">არჩეული სპლეშ-სურათი</string>
-  <string name="default_splash_path">ODK დეფოლტი</string>
+  <string name="default_splash_path">PA 2030 დეფოლტი</string>
   <string name="select_another_image">სხვა სურათების არჩევა</string>
   <string name="use_odk_default">გამოიყენე დეფოლტ-სურათი</string>
   <string name="change_splash_path">სურათის შეცვლა</string>
@@ -356,7 +356,7 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">შესახებ</string>
-  <string name="tell_your_friends">ODK Collect გაზიარება</string>
+  <string name="tell_your_friends">PA 2030 Collect გაზიარება</string>
   <!--##############################################
      # SETTINGS IMPORT
      ##############################################-->

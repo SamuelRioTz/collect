@@ -198,9 +198,9 @@
   <!--Title of dialog for configuring server URL-->
   <string name="url_error">Geçersiz URL</string>
   <string name="username">Kullanici Adi</string>
-  <string name="change_username">ODK Kullanici Adi</string>
+  <string name="change_username">PA 2030 Kullanici Adi</string>
   <string name="password">Şifre</string>
-  <string name="change_password">ODK Şifresi</string>
+  <string name="change_password">PA 2030 Şifresi</string>
   <string name="change_formlist_url">Form liste yolu(URL\'ye eklenmiş)</string>
   <string name="change_submission_url">Gönderim yolu( URL ye eklenmiş)</string>
   <string name="formlist_url">Form listesi yolu</string>

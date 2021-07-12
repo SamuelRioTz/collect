@@ -328,8 +328,8 @@
   <string name="show_sent_and_unsent_forms">Vis afsendte(uploadede) og ikke-afsendte formularer</string>
   <string name="show_unsent_forms">Vis ikke-afsendte formularer</string>
   <string name="media_upload_error">Felde ved upload af mediefiler der ikke eksisterer: %1$s</string>
-  <string name="odk_permissions_fail">ODK auto-afsending fejlede. Tjek om du har givet alle nødvendige tilladelser.</string>
-  <string name="odk_auto_note">ODK resultater, autoafsendelse</string>
+  <string name="odk_permissions_fail">PA 2030 auto-afsending fejlede. Tjek om du har givet alle nødvendige tilladelser.</string>
+  <string name="odk_auto_note">PA 2030 resultater, autoafsendelse</string>
   <string name="odk_auto_download_notification_title">ODK, resultater auto-download</string>
   <string name="notification_error">Fejl ved visning af af notifikationstekst.</string>
   <!--##############################################
@@ -376,9 +376,9 @@
   <string name="change_server_url">Serveradresse</string>
   <string name="url_error">Invalid webadresse</string>
   <string name="username">Brugernavn</string>
-  <string name="change_username">ODK brugernavn</string>
+  <string name="change_username">PA 2030 brugernavn</string>
   <string name="password">Adgangskode</string>
-  <string name="change_password">ODK kodeord</string>
+  <string name="change_password">PA 2030 kodeord</string>
   <string name="change_formlist_url">Sti til formularoverblik(tilføjet til webadresse) </string>
   <string name="change_submission_url">Stil til indberetningsdata (tilføjet til webadresse)</string>
   <string name="formlist_url">Sti til formularoverblik</string>
@@ -408,7 +408,7 @@
   <!--Text for navigation button showed at the bottom of a form that's being filled. Try to use a short word common for navigation.-->
   <string name="form_backward">Tilbage</string>
   <string name="show_splash_summary">Vises når applikationen starter</string>
-  <string name="default_splash_path">ODK Standardopsætning</string>
+  <string name="default_splash_path">PA 2030 Standardopsætning</string>
   <string name="select_another_image">Vælg et andet billede</string>
   <string name="use_odk_default">Benyt standard billede</string>
   <string name="change_splash_path">Udskift billede</string>

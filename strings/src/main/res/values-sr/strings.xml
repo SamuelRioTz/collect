@@ -424,7 +424,7 @@
   <string name="show_unsent_forms">Prikaži neposlate formulare</string>
   <string name="media_upload_error">Greška prilikom otpreme medija fajla koji ne postoji: %1$s</string>
   <string name="send_in_progress">Otpremanje u pozadini je u toku, molim pokušajte za koji trenutak</string>
-  <string name="odk_permissions_fail">ODK automatsko otpremanje nije uspjelo, molim da se uvjerite da ste odobrili sve neophodne pristupe</string>
+  <string name="odk_permissions_fail">PA 2030 automatsko otpremanje nije uspjelo, molim da se uvjerite da ste odobrili sve neophodne pristupe</string>
   <string name="odk_auto_note">Rezultati PA 2030 auto-otpreme</string>
   <string name="odk_auto_download_notification_title">Rezultati PA 2030 auto-preuzimanja</string>
   <string name="notification_error">Greška u prikazu teksta obavještenja</string>
@@ -478,9 +478,9 @@
   <string name="change_server_url">Adresa - URL - servera</string>
   <string name="url_error">Nepostojeći URL</string>
   <string name="username">Korisničko ime</string>
-  <string name="change_username">ODK Korisničko ime</string>
+  <string name="change_username">PA 2030 Korisničko ime</string>
   <string name="password">Lozinka</string>
-  <string name="change_password">ODK Lozinka</string>
+  <string name="change_password">PA 2030 Lozinka</string>
   <string name="password_error_whitespace">Prazan prostor na početku ili kraju nije dozvoljen kod lozinki</string>
   <string name="username_error_whitespace">Prazan prostor na početku ili kraju nije dozvoljen kod korisničkih imena</string>
   <string name="change_formlist_url">Web putanja liste formulara (dodata URL adresi)</string>
@@ -516,7 +516,7 @@
   <string name="show_splash_title">Splash ekran</string>
   <string name="show_splash_summary">Prikazuje se kada se aplikacija pokrene</string>
   <string name="splash_path">Odabrana slika</string>
-  <string name="default_splash_path">ODK fabrička podešavanja</string>
+  <string name="default_splash_path">PA 2030 fabrička podešavanja</string>
   <string name="select_another_image">Izaberi drugu sliku</string>
   <string name="use_odk_default">Koristi uobičajenu sliku</string>
   <string name="change_splash_path">Promijeni sliku</string>
@@ -671,7 +671,7 @@
   <string name="leave_a_review">Napiši Play Store recenziju</string>
   <string name="leave_a_review_msg">Vaša (nadamo se pozitivna) recenzija povećava vidljivost aplikacije u Play Storu.</string>
   <string name="odk_website">Posjeti PA 2030 vebsajt</string>
-  <string name="odk_website_summary">ODK se koristi za prikupljanje podataka o društvenim stvarima u izazovnim situacijama.</string>
+  <string name="odk_website_summary">PA 2030 se koristi za prikupljanje podataka o društvenim stvarima u izazovnim situacijama.</string>
   <string name="odk_forum">Pridruži se PA 2030 forumu</string>
   <string name="odk_forum_summary">Pridruži se forumu za podršku, traži opcije, ili doprinesi kodu/prevodu!</string>
   <string name="all_open_source_licenses">Otvori biblioteke/ licence koda</string>

@@ -223,7 +223,7 @@
   <string name="change_server_url">URL ng Server</string>
   <string name="url_error">Paumanhin, may mali sa URL!</string>
   <string name="username">Username</string>
-  <string name="change_username">ODK Username</string>
+  <string name="change_username">PA 2030 Username</string>
   <string name="password">Kontrasenyas</string>
   <string name="change_password">Hudyat</string>
   <string name="change_formlist_url">Form List Path (appended to Server URL)</string>

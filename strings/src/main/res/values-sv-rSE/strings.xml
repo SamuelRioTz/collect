@@ -396,7 +396,7 @@
   <string name="show_unsent_forms">Visa oskickade formulär</string>
   <string name="media_upload_error">Fel vid uppladdning av mediafil som inte finns: %1$s</string>
   <string name="send_in_progress">Sändning pågår i bakgrunden, vänligen försök igen senare</string>
-  <string name="odk_permissions_fail">ODK auto inskickningsfel, kontrollera att du har beviljat nödvändiga rättigheter</string>
+  <string name="odk_permissions_fail">PA 2030 auto inskickningsfel, kontrollera att du har beviljat nödvändiga rättigheter</string>
   <string name="notification_error">Fel vid visning av notifikationstext</string>
   <!--##############################################
     # GET BLANK FORM
@@ -449,9 +449,9 @@
   <string name="change_server_url">Server-URL</string>
   <string name="url_error">Tyvärr, ogiltig URL!</string>
   <string name="username">Användarnamn</string>
-  <string name="change_username">ODK användarnamn</string>
+  <string name="change_username">PA 2030 användarnamn</string>
   <string name="password">Lösenord</string>
-  <string name="change_password">ODK lösenord</string>
+  <string name="change_password">PA 2030 lösenord</string>
   <string name="password_error_whitespace">Inledande eller avslutande blanksteg är inte tillåtet i lösenord</string>
   <string name="username_error_whitespace">Inledande eller avslutande blanksteg är inte tillåtet i användarnamn</string>
   <string name="change_formlist_url">Sökväg till formulärlista (tillagd till URL)</string>
@@ -487,7 +487,7 @@
   <string name="show_splash_title">Startskärm</string>
   <string name="show_splash_summary">Visas när programmet startas</string>
   <string name="splash_path">Vald välkomstbild</string>
-  <string name="default_splash_path">ODK standard</string>
+  <string name="default_splash_path">PA 2030 standard</string>
   <string name="select_another_image">Välj en annan bild</string>
   <string name="use_odk_default">Använd standardbild</string>
   <string name="change_splash_path">Byt bild</string>
@@ -639,7 +639,7 @@ Dela PA 2030 Collect med dem.</string>
   <string name="leave_a_review">Lämna ett omdöme på Play Store</string>
   <string name="leave_a_review_msg">Din (förhoppningsvis positiva) recension ökar synligheten av Appen i Play Store.</string>
   <string name="odk_website">Besök ODKs hemsida</string>
-  <string name="odk_website_summary">ODK används för att samla in data för socialt arbete i utmanande miljöer</string>
+  <string name="odk_website_summary">PA 2030 används för att samla in data för socialt arbete i utmanande miljöer</string>
   <string name="odk_forum">Gå med i PA 2030 forumet</string>
   <string name="odk_forum_summary">Gå med i forumet för få hjälp, föreslå nya funktioner eller bidra med kod och översättningar!</string>
   <string name="all_open_source_licenses">Bibliotek/licenser för öppen källkod</string>

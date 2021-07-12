@@ -501,8 +501,8 @@
   <string name="media_upload_error">فشل في تحميل ملف الوسائط المتعددة الغير موجود: %1$s</string>
   <string name="send_in_progress">خلفية الارسال تعمل. يرجى المحاولة مرة أخرى في وقت قريب</string>
   <string name="odk_permissions_fail">فشل إذن PA 2030 للإرسال التلقائي، يرجى التأكد من منحك جميع الأذونات المطلوبة</string>
-  <string name="odk_auto_note">ODK يرسل النتائج تلقائيا</string>
-  <string name="odk_auto_download_notification_title">ODK ينزل النتائج تلقائيا</string>
+  <string name="odk_auto_note">PA 2030 يرسل النتائج تلقائيا</string>
+  <string name="odk_auto_download_notification_title">PA 2030 ينزل النتائج تلقائيا</string>
   <string name="notification_error">خطأ في عرض اشعار النص</string>
   <!--##############################################
     # GET BLANK FORM
@@ -567,7 +567,7 @@
   <string name="username">إسم المستخدم</string>
   <string name="change_username">إسم المستخدم</string>
   <string name="password">كلمة المرور</string>
-  <string name="change_password">ODK كلمة المرور</string>
+  <string name="change_password">PA 2030 كلمة المرور</string>
   <string name="password_error_whitespace">الفراغات في البداية أو النهاية غير مسموح بها في كلمات المرور</string>
   <string name="username_error_whitespace">الفراغات في البداية أو النهاية غير مسموح بها في اسم المستخدم</string>
   <string name="custom_server_paths">مسارات مخدم مخصصة</string>
@@ -606,7 +606,7 @@
   <string name="show_splash_title">شاشة الترحيب</string>
   <string name="show_splash_summary">اظهار عند بدء التطبيق</string>
   <string name="splash_path">اختيار صورة البداية</string>
-  <string name="default_splash_path">ODK الإفتراضي</string>
+  <string name="default_splash_path">PA 2030 الإفتراضي</string>
   <string name="select_another_image">حدد صورة أخرى</string>
   <string name="use_odk_default">استخدام الصورة الإفتراضية</string>
   <string name="change_splash_path">تغيير الصورة</string>

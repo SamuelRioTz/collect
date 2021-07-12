@@ -65,7 +65,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Отримати дозволи облікового запису</string>
   <string name="get_accounts_runtime_permission_denied_desc">Без цього дозволу Collect не має доступу до облікових записів. Будь ласка, спробуйте знову коли будете готові надати його.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Сатус телефону</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect не робить телефонних дзвінків але потребує доступу до певних властивостей вашого пристрою як то номер телефну та ID пристрою</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">PA 2030 Collect не робить телефонних дзвінків але потребує доступу до певних властивостей вашого пристрою як то номер телефну та ID пристрою</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -669,7 +669,7 @@
   <string name="leave_a_review">Залишити відгук в Play Store</string>
   <string name="leave_a_review_msg">Ваш (сподіваємось позитивний) відгук покращить помітність програми в Play Store.</string>
   <string name="odk_website">Перейти на сайт ODK</string>
-  <string name="odk_website_summary">ODK використовується для збору даних для суспільних потреб.</string>
+  <string name="odk_website_summary">PA 2030 використовується для збору даних для суспільних потреб.</string>
   <string name="odk_forum">Долучитись до форуму ODK</string>
   <string name="odk_forum_summary">Долучайтесь до форуму аби отримати допомогу, запросити нові функції, допомогти в створенні коду чи перекладу!</string>
   <string name="all_open_source_licenses">Відкриті бібліотеки/ліцензії</string>

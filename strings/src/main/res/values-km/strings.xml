@@ -476,7 +476,7 @@
   <string name="show_splash_title">ស្វាគមន៍អេក្រង់</string>
   <string name="show_splash_summary">បង្ហាញពេលកម្មវិធីចាប់ផ្តើម</string>
   <string name="splash_path">ជ្រើសរើសរូបស្វាគមន៍</string>
-  <string name="default_splash_path">ODK លំនាំដើម</string>
+  <string name="default_splash_path">PA 2030 លំនាំដើម</string>
   <string name="select_another_image">ជ្រើសរើសរូបផ្សេងទៀត</string>
   <string name="use_odk_default">ប្រើប្រាស់រូបលំនាំដើម</string>
   <string name="change_splash_path">ផ្លាស់ប្តូររូបថត</string>
@@ -625,7 +625,7 @@
   <string name="leave_a_review">ទុកមតិនៅក្នុងហាង Play</string>
   <string name="leave_a_review_msg">ការ​ផ្តល់​មតិ​ (សង្ឃឹមថាជាវិជ្ជមាន) របស់​អ្នក​បង្កើន​ភាព​មើល​ឃើញ​នៃ​កម្មវិធី​នៅ​ក្នុង Play Store ។</string>
   <string name="odk_website">ចូលទៅកាន់គេហទំព័រ ODK</string>
-  <string name="odk_website_summary">ODK បាន​ប្រើ​ប្រាស់​ដើម្បី​ប្រមូល​ទិន្នន័យសម្រាប់ភាពប្រសើរ​របស់​សង្គមនៅក្នុងបរិយាកាស​ប្រកួត​ប្រជែង​។</string>
+  <string name="odk_website_summary">PA 2030 បាន​ប្រើ​ប្រាស់​ដើម្បី​ប្រមូល​ទិន្នន័យសម្រាប់ភាពប្រសើរ​របស់​សង្គមនៅក្នុងបរិយាកាស​ប្រកួត​ប្រជែង​។</string>
   <string name="odk_forum">ចូល​រួម​ជា​មួយ​វេទិកា ODK</string>
   <string name="odk_forum_summary">ចូលរួមវេទិកាដើម្បីទទួលបានការគាំទ្រ, លក្ខណៈពិសេសស្នើសុំ, រួមចំណែកកូដ / ការបកប្រែ!</string>
   <string name="all_open_source_licenses">ប្រភពបណ្ណាល័យបើកចំហ/អាជ្ញាបណ្ណ</string>

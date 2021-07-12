@@ -66,7 +66,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Uzyskaj uprawnienia do kont</string>
   <string name="get_accounts_runtime_permission_denied_desc">Bez tych uprawnieć Collect nie ma dostępu do kont. Spróbuj ponownie, kiedy uprawnienia zostaną nadane.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Sprawdź uprawnienia dostępu do właściwości telefonu</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect nie wykonuje połączeń, ale wymaga dostępu do niektórych właściwości twojego urządzenia, w tym do numeru telefonu i numeru ID</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">PA 2030 Collect nie wykonuje połączeń, ale wymaga dostępu do niektórych właściwości twojego urządzenia, w tym do numeru telefonu i numeru ID</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -712,7 +712,7 @@
   <string name="leave_a_review">Zostaw swoją opinię na Play Store</string>
   <string name="leave_a_review_msg">Twoja (mamy nadzieję pozytywna) recenzja przyczyni się do zwiększenia widoczności Aplikacji w Play Store.</string>
   <string name="odk_website">Odwiedź stronę ODK</string>
-  <string name="odk_website_summary">ODK służy do zbierania danych w trudnych warunkach dla społeczego dobra.</string>
+  <string name="odk_website_summary">PA 2030 służy do zbierania danych w trudnych warunkach dla społeczego dobra.</string>
   <string name="odk_forum">Dołącz do forum ODK</string>
   <string name="odk_forum_summary">Dołącz do forum by uzyskać wsparcie, zgłaszać potrzeby nowych opcji, wnieść swój wkład w tłumaczenie i kodowanie.</string>
   <string name="all_open_source_licenses">Biblioteki/licencje open source</string>
