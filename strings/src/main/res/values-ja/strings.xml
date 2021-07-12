@@ -426,7 +426,7 @@
   <string name="geotrace_title">GeoTrace</string>
   <string name="gps_enable_message">お使いのデバイスで GPS は無効になっています。有効にしますか?</string>
   <string name="geo_clear_warning">機能は既に作成済です。機能をクリアしますか?</string>
-  <string name="geo_exit_warning">変更を破棄して ODK の戻りますか?</string>
+  <string name="geo_exit_warning">変更を破棄して PA 2030 の戻りますか?</string>
   <string name="polygon_validator">ポリゴンを作成するには、少なくとも 3 点指定する必要があります</string>
   <string name="polyline_validator">ポリラインを作成するには、少なくとも2点指定する必要があります</string>
   <string name="clear">クリア</string>
@@ -749,7 +749,7 @@
      ##############################################-->
   <string name="about_preferences">アプリについて</string>
   <string name="tell_your_friends">ODK Collect を共有</string>
-  <string name="tell_your_friends_msg">あなたの同僚はまだ紙でデータを収集しているのですか? ODK Collect を彼らと共有しましょう。</string>
+  <string name="tell_your_friends_msg">あなたの同僚はまだ紙でデータを収集しているのですか? PA 2030 Collect を彼らと共有しましょう。</string>
   <string name="leave_a_review">Play ストアにレビューを残す</string>
   <string name="leave_a_review_msg">あなたの (肯定的な) レビューが Play ストアでアプリの認知度を向上させてくれます</string>
   <string name="odk_website">ODK ウェブサイトを訪問</string>

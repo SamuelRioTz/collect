@@ -633,14 +633,14 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Om</string>
-  <string name="tell_your_friends">Dela ODK Collect</string>
+  <string name="tell_your_friends">Dela PA 2030 Collect</string>
   <string name="tell_your_friends_msg">Samlar dina kollegor fortfarande data på papper?
-Dela ODK Collect med dem.</string>
+Dela PA 2030 Collect med dem.</string>
   <string name="leave_a_review">Lämna ett omdöme på Play Store</string>
   <string name="leave_a_review_msg">Din (förhoppningsvis positiva) recension ökar synligheten av Appen i Play Store.</string>
   <string name="odk_website">Besök ODKs hemsida</string>
   <string name="odk_website_summary">ODK används för att samla in data för socialt arbete i utmanande miljöer</string>
-  <string name="odk_forum">Gå med i ODK forumet</string>
+  <string name="odk_forum">Gå med i PA 2030 forumet</string>
   <string name="odk_forum_summary">Gå med i forumet för få hjälp, föreslå nya funktioner eller bidra med kod och översättningar!</string>
   <string name="all_open_source_licenses">Bibliotek/licenser för öppen källkod</string>
   <string name="all_open_source_licenses_msg">Vi står på jättarnas axlar!</string>
@@ -678,7 +678,7 @@ Dela ODK Collect med dem.</string>
   <string name="fs_create_media_folder_error">Kan inte skapa mediamappen \'%s\'.</string>
   <string name="fs_file_copy_error">Kan inte kopiera \'%1$s\' över \'%2$s\'. Orsak: %3$s</string>
   <string name="survey_multiple_forms_error">Du har laddat ner två olika formulär med samma ID och version. Kanske har dem laddats upp vid olika tidpunkter eller till olika servrar. I vilket fall som helst bör du radera ett av dem.</string>
-  <string name="select_odk_shortcut">Välj ODK genväg</string>
+  <string name="select_odk_shortcut">Välj PA 2030 genväg</string>
   <!--##############################################
      # Projects
      ##############################################-->

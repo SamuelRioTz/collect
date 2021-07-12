@@ -826,7 +826,7 @@
 
     <string name="analytics_preferences">Usage data</string>
     <string name="analytics">Collect anonymous usage data</string>
-    <string name="analytics_summary">Anonymous usage data helps the ODK team prioritize fixes and features.</string>
+    <string name="analytics_summary">Anonymous usage data helps the PA 2030 team prioritize fixes and features.</string>
 
     <string name="form_metadata_title">Form Metadata</string>
     <string name="form_metadata">Form metadata</string>
@@ -933,13 +933,13 @@
      ##############################################
      -->
     <string name="about_preferences">About</string>
-    <string name="tell_your_friends">Share ODK Collect</string>
-    <string name="tell_your_friends_msg">Are your colleagues still collecting data on paper? Share ODK Collect with them.</string>
+    <string name="tell_your_friends">Share PA 2030 Collect</string>
+    <string name="tell_your_friends_msg">Are your colleagues still collecting data on paper? Share PA 2030 Collect with them.</string>
     <string name="leave_a_review">Leave a Play Store review</string>
     <string name="leave_a_review_msg">Your (hopefully positive) review increases the visibility of the App in the Play Store.</string>
-    <string name="odk_website">Visit the ODK website</string>
+    <string name="odk_website">Visit the PA 2030 website</string>
     <string name="odk_website_summary">ODK is used to collect data for social good in challenging environments.</string>
-    <string name="odk_forum">Join the ODK forum</string>
+    <string name="odk_forum">Join the PA 2030 forum</string>
     <string name="odk_forum_summary">Join the forum to get support, request features, contribute code/translations! </string>
     <string name="all_open_source_licenses">Open source libraries/licenses</string>
     <string name="all_open_source_licenses_msg">We stand on the shoulders of giants!</string>
@@ -1000,7 +1000,7 @@
     <string name="fs_file_copy_error">Could not copy \'%1$s\' over \'%2$s\'. Reason: %3$s</string>
     <string name="survey_multiple_forms_error">You have downloaded two different forms with the same form ID and version. Maybe they were the same form uploaded at different times or to different servers. In any case, you should delete one.</string>
 
-    <string name="select_odk_shortcut">Select ODK Shortcut</string>
+    <string name="select_odk_shortcut">Select PA 2030 Shortcut</string>
     <string name="background_audio_help">This form records the audio from your device\'s microphone.\n\nYou can use the volume indicator to make sure the microphone is close enough to the sound you need to record.\n\nTo stop the recording please exit this form.\n\nFor more information please contact the person who asked you to collect data.</string>
 
     <!--

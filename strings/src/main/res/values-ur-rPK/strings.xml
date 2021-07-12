@@ -235,7 +235,7 @@
   <string name="username">استعمال کنندہ کا نام</string>
   <string name="change_username">ODK استعمال کرنے والے کا نام</string>
   <string name="password">شناختی لفظ (Password)</string>
-  <string name="change_password">  ODK  کا شناختی لفظ (Password)</string>
+  <string name="change_password">  PA 2030  کا شناختی لفظ (Password)</string>
   <string name="change_formlist_url">فارم لیسٹ کا راستہ (ملحقہ ہو آر ایل)</string>
   <string name="change_submission_url">حوالگی کا راستہ </string>
   <string name="formlist_url">فارم فہرست کا پاتھ</string>

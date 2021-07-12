@@ -664,8 +664,8 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Про нас</string>
-  <string name="tell_your_friends">Поширити ODK Collect</string>
-  <string name="tell_your_friends_msg">Ваші колеги досі збирають дані через паперові акети? Поділіться з ними ODK Collect.</string>
+  <string name="tell_your_friends">Поширити PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">Ваші колеги досі збирають дані через паперові акети? Поділіться з ними PA 2030 Collect.</string>
   <string name="leave_a_review">Залишити відгук в Play Store</string>
   <string name="leave_a_review_msg">Ваш (сподіваємось позитивний) відгук покращить помітність програми в Play Store.</string>
   <string name="odk_website">Перейти на сайт ODK</string>

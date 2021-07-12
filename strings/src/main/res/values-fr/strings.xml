@@ -751,8 +751,8 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">À propos</string>
-  <string name="tell_your_friends">Partager ODK Collect</string>
-  <string name="tell_your_friends_msg">Vos collègues continuent-ils à collecter des données sur papier ? Partagez ODK Collect avec eux.</string>
+  <string name="tell_your_friends">Partager PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">Vos collègues continuent-ils à collecter des données sur papier ? Partagez PA 2030 Collect avec eux.</string>
   <string name="leave_a_review">Laissez un avis sur Play Store</string>
   <string name="leave_a_review_msg">Votre avis (ce qu\'on espère est positif) augmente la visibilité de l\'application dans le Play Store.</string>
   <string name="odk_website">Visiter le site web de Open Data Kit</string>

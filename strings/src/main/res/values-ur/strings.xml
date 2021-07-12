@@ -447,7 +447,7 @@
   <string name="username">استعمال کنندہ کا نام</string>
   <string name="change_username">ODK استعمال کرنے والے کا نام</string>
   <string name="password">پاس ورڈ</string>
-  <string name="change_password">  ODK  کا پاس ورڈ</string>
+  <string name="change_password">  PA 2030  کا پاس ورڈ</string>
   <string name="password_error_whitespace">پاس ورڈز میں شروع اور بعد میں سپیسس کی اجازت نہیں ہے</string>
   <string name="username_error_whitespace">صارف کےناموں میں شروع اور بعد میں سپیسس کی اجازت نہیں ہے</string>
   <string name="change_formlist_url">فارم لسٹ پاتھ (اپینڈڈ یو آر ایل)</string>

@@ -425,8 +425,8 @@
   <string name="media_upload_error">Greška prilikom otpreme medija fajla koji ne postoji: %1$s</string>
   <string name="send_in_progress">Otpremanje u pozadini je u toku, molim pokušajte za koji trenutak</string>
   <string name="odk_permissions_fail">ODK automatsko otpremanje nije uspjelo, molim da se uvjerite da ste odobrili sve neophodne pristupe</string>
-  <string name="odk_auto_note">Rezultati ODK auto-otpreme</string>
-  <string name="odk_auto_download_notification_title">Rezultati ODK auto-preuzimanja</string>
+  <string name="odk_auto_note">Rezultati PA 2030 auto-otpreme</string>
+  <string name="odk_auto_download_notification_title">Rezultati PA 2030 auto-preuzimanja</string>
   <string name="notification_error">Greška u prikazu teksta obavještenja</string>
   <!--##############################################
     # GET BLANK FORM
@@ -666,13 +666,13 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Informacije </string>
-  <string name="tell_your_friends">Podijeli ODK Collect</string>
-  <string name="tell_your_friends_msg">Da li tvoje kolege i dalje prikupljaju podatke na papiru? Podijeli ODK sa njima</string>
+  <string name="tell_your_friends">Podijeli PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">Da li tvoje kolege i dalje prikupljaju podatke na papiru? Podijeli PA 2030 sa njima</string>
   <string name="leave_a_review">Napiši Play Store recenziju</string>
   <string name="leave_a_review_msg">Vaša (nadamo se pozitivna) recenzija povećava vidljivost aplikacije u Play Storu.</string>
-  <string name="odk_website">Posjeti ODK vebsajt</string>
+  <string name="odk_website">Posjeti PA 2030 vebsajt</string>
   <string name="odk_website_summary">ODK se koristi za prikupljanje podataka o društvenim stvarima u izazovnim situacijama.</string>
-  <string name="odk_forum">Pridruži se ODK forumu</string>
+  <string name="odk_forum">Pridruži se PA 2030 forumu</string>
   <string name="odk_forum_summary">Pridruži se forumu za podršku, traži opcije, ili doprinesi kodu/prevodu!</string>
   <string name="all_open_source_licenses">Otvori biblioteke/ licence koda</string>
   <string name="all_open_source_licenses_msg">Stojimo na ramenima velikana!</string>
@@ -711,7 +711,7 @@
   <string name="fs_create_media_folder_error">Ne mogu da kreiram medija folder \'%s\'.</string>
   <string name="fs_file_copy_error">Nisam mogao da prekopiram \'%1$s\' preko \'%2$s\'. Razlog: %3$s</string>
   <string name="survey_multiple_forms_error">Preuzeli ste dva drugačija formulara sa istim ID-jem i verzijom. Možda su to isti formulari učitani u različito vrijeme ili sa različitih servera. U svakom slučaju, treba da obrišete jedan.</string>
-  <string name="select_odk_shortcut">Odaberi ODK prečicu</string>
+  <string name="select_odk_shortcut">Odaberi PA 2030 prečicu</string>
   <!--##############################################
      # Projects
      ##############################################-->

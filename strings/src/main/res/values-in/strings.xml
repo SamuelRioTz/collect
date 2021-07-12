@@ -66,7 +66,7 @@
   <string name="get_accounts_runtime_permission_denied_title">Izin untuk mengakses akun</string>
   <string name="get_accounts_runtime_permission_denied_desc">Tanpa perizinan tadi, Collect tidak dapat mengakses akun. Buka ulang aplikasi jika Anda sudah yakin untuk memberikan izin.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Izin untuk membaca status telepon</string>
-  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect tidak akan melakukan panggilan telepon, tetapi ODK Collect memerlukan akses ke beberapa informasi mengenai perangkat Anda, seperti nomor telepon dan ID perangkat.</string>
+  <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect tidak akan melakukan panggilan telepon, tetapi PA 2030 Collect memerlukan akses ke beberapa informasi mengenai perangkat Anda, seperti nomor telepon dan ID perangkat.</string>
   <!--##############################################
     # FILL BLANK FORM
     ##############################################-->
@@ -748,11 +748,11 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Tentang</string>
-  <string name="tell_your_friends">Bagikan ODK Collect</string>
-  <string name="tell_your_friends_msg">Apakah rekan Anda masih menggunakan kertas untuk pengumpulan data? Kabari mereka untuk menggunakan ODK Collect.</string>
+  <string name="tell_your_friends">Bagikan PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">Apakah rekan Anda masih menggunakan kertas untuk pengumpulan data? Kabari mereka untuk menggunakan PA 2030 Collect.</string>
   <string name="leave_a_review">Berikan ulasan di Play Store</string>
-  <string name="leave_a_review_msg">Ulasan Anda (semoga positif) dapat mempromosikan aplikasi ODK di Play Store.</string>
-  <string name="odk_website">Kunjungi situs ODK </string>
+  <string name="leave_a_review_msg">Ulasan Anda (semoga positif) dapat mempromosikan aplikasi PA 2030 di Play Store.</string>
+  <string name="odk_website">Kunjungi situs PA 2030 </string>
   <string name="odk_website_summary">ODK digunakan sebagai pengumpulan data untuk kepentingan sosial di lingkungan yang menantang.</string>
   <string name="odk_forum">Gabung forum ODK</string>
   <string name="odk_forum_summary">Bergabung di Forum untuk mendapatkan bantuan, permintaan fitur, berkontribusi kode program/terjemahan!</string>

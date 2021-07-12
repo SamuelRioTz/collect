@@ -665,8 +665,8 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Informazioni</string>
-  <string name="tell_your_friends">Condividi ODK Collect</string>
-  <string name="tell_your_friends_msg">I tuoi colleghi stanno ancora raccogliendo dati con carta e penna? Condividi ODK Collect con loro!</string>
+  <string name="tell_your_friends">Condividi PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">I tuoi colleghi stanno ancora raccogliendo dati con carta e penna? Condividi PA 2030 Collect con loro!</string>
   <string name="leave_a_review">Lascia un commento su Play Store</string>
   <string name="leave_a_review_msg">Il tuo commento (speriamo positivo) aumenta la visibilità dell\'applicazione su Play Store</string>
   <string name="odk_website">Visitare il sito web ODK</string>

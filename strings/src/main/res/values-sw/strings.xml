@@ -410,9 +410,9 @@
   <string name="show_unsent_forms">Onyesha fomu zisizotumwa</string>
   <string name="media_upload_error">Imeshindwa kupakia mafaili ya midia ambayo hayapo%1$s</string>
   <string name="send_in_progress">Utumaji unaendelea kwa nyuma, jaribu tena baada ya muda mfupi</string>
-  <string name="odk_permissions_fail">Uwezo wa utumaji wenyewe wa ODK umeshindikana kwa kukosa ruhusa, tafadhali hakikisha umeipa ruhusa zote zinazohitajika</string>
-  <string name="odk_auto_note">Majibu ya ODK yanajituma yenyewe</string>
-  <string name="odk_auto_download_notification_title">Majibu ya ODK yaliyo jipakuwa yenyewe</string>
+  <string name="odk_permissions_fail">Uwezo wa utumaji wenyewe wa PA 2030 umeshindikana kwa kukosa ruhusa, tafadhali hakikisha umeipa ruhusa zote zinazohitajika</string>
+  <string name="odk_auto_note">Majibu ya PA 2030 yanajituma yenyewe</string>
+  <string name="odk_auto_download_notification_title">Majibu ya PA 2030 yaliyo jipakuwa yenyewe</string>
   <string name="notification_error">Kosa linaonesha ujumbe wa maandishi</string>
   <!--##############################################
     # GET BLANK FORM
@@ -652,7 +652,7 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Kuhusu</string>
-  <string name="tell_your_friends">Shirikisha wengine programu ya ODK collect</string>
+  <string name="tell_your_friends">Shirikisha wengine programu ya PA 2030 collect</string>
   <string name="tell_your_friends_msg">Je ndugu na jamaa zako bado wanakusanya taarifa kupitia karatasi? Washirikishe programu ya ODK.</string>
   <string name="leave_a_review">Acha tathmini katika Play Store</string>
   <string name="leave_a_review_msg">Tathmini yako (tunatumaini itakuwa chanya) inaongeza nafasi ya programu hii kuonekana Pay Store</string>
@@ -694,7 +694,7 @@
   <string name="fs_create_media_folder_error">Imeshindwa tengeneza kabrasha la midia\'%s\'.</string>
   <string name="fs_file_copy_error">Haiwezi nakili  \'%1$s\' zidi ya \'%2$s\'. Sababu:%3$s</string>
   <string name="survey_multiple_forms_error">Unepakua fomu mbili tofauti  zenye  fomu ya utambulisho sawa na toleo sawa. Labda ilikuwa ni fomu moja iliyoekwa muda tofauti au seva tofauti. Kama ni hivyo futa mojawapo. </string>
-  <string name="select_odk_shortcut">Chagua njia fupi ya ODK </string>
+  <string name="select_odk_shortcut">Chagua njia fupi ya PA 2030 </string>
   <!--##############################################
      # Projects
      ##############################################-->

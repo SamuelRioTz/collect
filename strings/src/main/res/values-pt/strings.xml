@@ -56,15 +56,15 @@
   <string name="no_items_display_instances">Nada disponível para exibir.\n\nTente finalizar formulários salvos antes de enviar.</string>
   <string name="not_granted_permission">A atividade que você está tentando iniciar exige uma permissão que você não concedeu.</string>
   <string name="storage_runtime_permission_denied_title">Permissões de armazenamento</string>
-  <string name="storage_runtime_permission_denied_desc">Sem estas permissões, o ODK Collect não pode acessar os seus formulários ou salvar submissões. Abra o aplicativo novamente quando estiver pronto(a) para dar estas permissões.</string>
+  <string name="storage_runtime_permission_denied_desc">Sem estas permissões, o PA 2030 Collect não pode acessar os seus formulários ou salvar submissões. Abra o aplicativo novamente quando estiver pronto(a) para dar estas permissões.</string>
   <string name="location_runtime_permissions_denied_title">Permissões de localização</string>
-  <string name="location_runtime_permissions_denied_desc">Sem estas permissões, ODK Collect não pode registrar sua localização. Por favor, tente novamente quando estiver pronto(a) para garanti-las.</string>
+  <string name="location_runtime_permissions_denied_desc">Sem estas permissões, PA 2030 Collect não pode registrar sua localização. Por favor, tente novamente quando estiver pronto(a) para garanti-las.</string>
   <string name="camera_runtime_permission_denied_title">Permissão de acesso à câmera</string>
-  <string name="camera_runtime_permission_denied_desc">Sem esta permissão, o ODK Collect não consegue acessar sua câmera. Por favor, tente novamente quando estiver pronto(a) a garanti-la.</string>
+  <string name="camera_runtime_permission_denied_desc">Sem esta permissão, o PA 2030 Collect não consegue acessar sua câmera. Por favor, tente novamente quando estiver pronto(a) a garanti-la.</string>
   <string name="record_audio_runtime_permission_denied_title">Permissão de gravar áudio</string>
-  <string name="record_audio_runtime_permission_denied_desc">Sem esta permissão, o ODK Collect não consegue acessar seu microfone. Por favor, tente novamente quando estiver pronto(a) a garanti-la.</string>
+  <string name="record_audio_runtime_permission_denied_desc">Sem esta permissão, o PA 2030 Collect não consegue acessar seu microfone. Por favor, tente novamente quando estiver pronto(a) a garanti-la.</string>
   <string name="get_accounts_runtime_permission_denied_title">Permissão para acessar contas</string>
-  <string name="get_accounts_runtime_permission_denied_desc">Sem esta permissão, o ODK Collecta não consegue acessar as contas. Por favor, tente novamente quando estiver pronto(a) a garanti-la.</string>
+  <string name="get_accounts_runtime_permission_denied_desc">Sem esta permissão, o PA 2030 Collecta não consegue acessar as contas. Por favor, tente novamente quando estiver pronto(a) a garanti-la.</string>
   <string name="read_phone_state_runtime_permission_denied_title">Permissão para acessar o estado do telefone</string>
   <string name="read_phone_state_runtime_permission_denied_desc">ODK Collect não faz chamadas, mas precisa desta permissão para acessar algumas informações do seu dispositivo como o número do telefone e o ID do dispositivo.</string>
   <!--##############################################
@@ -482,7 +482,7 @@ Escolher Imagem</string>
   <string name="show_unsent_forms">Apenas formulários não enviados</string>
   <string name="media_upload_error">Falhou ao fazer o upload do arquivo de media, que não existe: %1$s</string>
   <string name="send_in_progress">Envio automático em segundo plano sendo executado, por favor, tente novamente em alguns instantes</string>
-  <string name="odk_permissions_fail">Permissão de envio automático do ODK falhou, por favor, certifique-se de que concedeu todas as permissões requisitadas.</string>
+  <string name="odk_permissions_fail">Permissão de envio automático do PA 2030 falhou, por favor, certifique-se de que concedeu todas as permissões requisitadas.</string>
   <string name="odk_auto_note">Resultados de envio automático do ODK</string>
   <string name="odk_auto_download_notification_title">Resultados de download automático do ODK</string>
   <string name="notification_error">Erro ao exibir texto de notificação.</string>
@@ -743,8 +743,8 @@ Escolher Imagem</string>
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Sobre</string>
-  <string name="tell_your_friends">Compartilhar ODK Collect</string>
-  <string name="tell_your_friends_msg">Seus colegas ainda estão coletando dados em papel? Compartilhe o ODK Collect com eles.</string>
+  <string name="tell_your_friends">Compartilhar PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">Seus colegas ainda estão coletando dados em papel? Compartilhe o PA 2030 Collect com eles.</string>
   <string name="leave_a_review">Deixe um opinião sua na Play Store</string>
   <string name="leave_a_review_msg">A sua opinião (possivelmente positiva) aumenta a visibilidade da App na Play Store.</string>
   <string name="odk_website">Visite o site ODK</string>

@@ -403,7 +403,7 @@
   <string name="geotrace_title">జియోట్రేస్</string>
   <string name="gps_enable_message">మీ పరికరంలో GPS డిజేబుల్ చేయబడి ఉంది. మీరు ఎనేబుల్ చేయదలుచుకుంటున్నారా?</string>
   <string name="geo_clear_warning">ఫీచర్ ఇప్పటికే క్రియేట్ చేయబడింది. మీరు ఫీచర్ తీసెయ్యాలనుకుంటున్నారా?</string>
-  <string name="geo_exit_warning">మార్పులను విస్మరించి, ODK కి తిరిగి వెళ్లాలా?</string>
+  <string name="geo_exit_warning">మార్పులను విస్మరించి, PA 2030 కి తిరిగి వెళ్లాలా?</string>
   <string name="polygon_validator">బహుభుజిని సృష్టించడానికి కనీసం 3 పాయింట్లు ఉండాలి</string>
   <string name="polyline_validator">పాలిలైన్ సృష్టించడానికి కనీసం 2 పాయింట్లు ఉండాలి</string>
   <string name="clear">తొలగించు</string>
@@ -714,11 +714,11 @@
      ##############################################-->
   <string name="about_preferences">ODK గురించి</string>
   <string name="tell_your_friends">ODK కలెక్ట్ ని షేర్ చెయ్యండి</string>
-  <string name="tell_your_friends_msg">మీ సహచరులు ఇప్పటికీ కాగితంపై డేటాను సేకరిస్తున్నారా? వారితో ODK Collect పంచుకోండి </string>
+  <string name="tell_your_friends_msg">మీ సహచరులు ఇప్పటికీ కాగితంపై డేటాను సేకరిస్తున్నారా? వారితో PA 2030 Collect పంచుకోండి </string>
   <string name="leave_a_review">ప్లే స్టోర్ విమర్షని ఇక్కడ రాయండి</string>
   <string name="leave_a_review_msg">మీ ( సానుకూల) సమీక్ష Play Store లో ఈ App గురించి ఎక్కువ మందికి తెలిసేలా చేస్తుంది </string>
   <string name="odk_website">ODK వెబ్‌సైట్‌ను సందర్శించండి</string>
-  <string name="odk_website_summary">సవాలు చేసే వాతావరణాలలో సామాజిక మంచి కోసం డేటాను సేకరించడానికి ODK ఉపయోగించబడుతుంది.</string>
+  <string name="odk_website_summary">సవాలు చేసే వాతావరణాలలో సామాజిక మంచి కోసం డేటాను సేకరించడానికి PA 2030 ఉపయోగించబడుతుంది.</string>
   <string name="odk_forum">ODK ఫోరమ్‌లో చేరండి</string>
   <string name="odk_forum_summary">మద్దతు పొందడానికి ఫోరమ్‌లో చేరండి, లక్షణాలను అభ్యర్థించండి, కోడ్ / అనువాదాలను అందించండి!</string>
   <string name="all_open_source_licenses">ఓపెన్ సోర్స్ లైబ్రరీలు/లైసెన్సులు</string>

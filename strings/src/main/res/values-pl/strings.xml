@@ -707,8 +707,8 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">O Aplikacji</string>
-  <string name="tell_your_friends">Udostępnij ODK Collect</string>
-  <string name="tell_your_friends_msg">Czy Twoi koledzy wciąż używają do zbierania danych arkuszy papieru? Podziel się z nimi ODK Collect.</string>
+  <string name="tell_your_friends">Udostępnij PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">Czy Twoi koledzy wciąż używają do zbierania danych arkuszy papieru? Podziel się z nimi PA 2030 Collect.</string>
   <string name="leave_a_review">Zostaw swoją opinię na Play Store</string>
   <string name="leave_a_review_msg">Twoja (mamy nadzieję pozytywna) recenzja przyczyni się do zwiększenia widoczności Aplikacji w Play Store.</string>
   <string name="odk_website">Odwiedź stronę ODK</string>

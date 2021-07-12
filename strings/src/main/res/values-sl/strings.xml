@@ -266,8 +266,8 @@
   <string name="show_unsent_forms">Pokaži neposlane obrazce</string>
   <string name="media_upload_error">Medijske datoteke %1$s ni bilo mogoče naložiti, ker ne obstaja.</string>
   <string name="send_in_progress">Pošiljanja se izvaja v ozadju, prosim poskusite znova cez malo časa</string>
-  <string name="odk_auto_note">Rezultati ODK samodejnega pošiljanja</string>
-  <string name="odk_auto_download_notification_title">Rezultati ODK samodejnega prenosa</string>
+  <string name="odk_auto_note">Rezultati PA 2030 samodejnega pošiljanja</string>
+  <string name="odk_auto_download_notification_title">Rezultati PA 2030 samodejnega prenosa</string>
   <string name="notification_error">Napaka pri prikazu obvestila</string>
   <!--##############################################
     # GET BLANK FORM
@@ -428,7 +428,7 @@
   <!--##############################################
      # ABOUT
      ##############################################-->
-  <string name="tell_your_friends_msg">Ali vaši kolegi še vedno zbirajo podatke na papirju? Delite ODK Collect z njimi.</string>
+  <string name="tell_your_friends_msg">Ali vaši kolegi še vedno zbirajo podatke na papirju? Delite PA 2030 Collect z njimi.</string>
   <string name="all_open_source_licenses_msg">Stojimo na ramenih velikanov!</string>
   <!--##############################################
      # SETTINGS IMPORT

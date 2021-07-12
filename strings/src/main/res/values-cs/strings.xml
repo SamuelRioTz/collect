@@ -494,7 +494,7 @@
   <string name="show_unsent_forms">Zobrazit neodeslané dotazníky</string>
   <string name="media_upload_error">Nepodařilo se nahrát soubor médií, který neexistuje.%1$s </string>
   <string name="send_in_progress">Odesílání na pozadí běží, zkuste to znovu</string>
-  <string name="odk_permissions_fail">automatické odeslání oprávnění ODK selhalo, ujistěte se, že jste udělili všechna požadovaná oprávnění</string>
+  <string name="odk_permissions_fail">automatické odeslání oprávnění PA 2030 selhalo, ujistěte se, že jste udělili všechna požadovaná oprávnění</string>
   <string name="odk_auto_note">Výsledky automatického odesílání ODK</string>
   <string name="odk_auto_download_notification_title">Výsledky automatického stahování ODK</string>
   <string name="notification_error">Chyba při zobrazení oznámení</string>
@@ -757,8 +757,8 @@
      # ABOUT
      ##############################################-->
   <string name="about_preferences">Více o….</string>
-  <string name="tell_your_friends">Sdílet ODK Collect</string>
-  <string name="tell_your_friends_msg">Shromažďují vaši kolegové data jen na papíře? Sdílejte s nimi ODK Collect.</string>
+  <string name="tell_your_friends">Sdílet PA 2030 Collect</string>
+  <string name="tell_your_friends_msg">Shromažďují vaši kolegové data jen na papíře? Sdílejte s nimi PA 2030 Collect.</string>
   <string name="leave_a_review">Nechte recenzi v Play Store</string>
   <string name="leave_a_review_msg">Vaše recenze (snad pozitivní) zvyšuje viditelnost aplikace v Play Store.</string>
   <string name="odk_website">Navštivte web ODK</string>
@@ -811,7 +811,7 @@
   <string name="fs_create_media_folder_error">Nemohu vytvořit adresář pro mediální soubory \'%s\'.</string>
   <string name="fs_file_copy_error">Nezdařilo se nakopírovat \'%1$s\' přes \'%2$s\'. Důvod: %3$s </string>
   <string name="survey_multiple_forms_error">Stáhli jste dva různé formuláře se shodným ID a verzí. Možná jste nahráli stejný dotazník dvakrát nebo na jiné servery. Každopádně, jeden byste měli smazat.</string>
-  <string name="select_odk_shortcut">Vybrat ODK zástupce</string>
+  <string name="select_odk_shortcut">Vybrat PA 2030 zástupce</string>
   <string name="background_audio_help">Tento formulář zaznamenává zvuk z mikrofonu zařízení.\n\nMůžete použít indikátor hlasitosti a ujistit se, že je mikrofon dostatečně blízko zvuku, který potřebujete zaznamenat.\n\nChcete-li zastavit nahrávání, ukončete tento formulář.\n\nDalší informace získáte od osoby, která vás požádala o shromažďování údajů.</string>
   <!--##############################################
      # Projects

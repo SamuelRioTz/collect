@@ -426,7 +426,7 @@
   <string name="geotrace_title">GeoTrace</string>
   <string name="gps_enable_message">GPS ist auf Ihrem Gerät deaktiviert. Möchten Sie es aktivieren?</string>
   <string name="geo_clear_warning">Merkmal bereits erzeugt. Möchten Sie das Merkmal löschen?</string>
-  <string name="geo_exit_warning">Änderungen verwerfen und zu ODK zurückkehren?</string>
+  <string name="geo_exit_warning">Änderungen verwerfen und zu PA 2030 zurückkehren?</string>
   <string name="polygon_validator">Min. 3 Punkte notwendig um ein Polygon zu erzeugen</string>
   <string name="polyline_validator">Min. 2 Punkte notwendig um eine Polylinie zu erzeugen</string>
   <string name="clear">Löschen</string>
@@ -752,7 +752,7 @@
      ##############################################-->
   <string name="about_preferences">Über</string>
   <string name="tell_your_friends">ODK Collect teilen</string>
-  <string name="tell_your_friends_msg">Erfassen Ihre Kollegen Daten immer noch auf Papier? Empfehlen Sie Ihnen ODK Collect.</string>
+  <string name="tell_your_friends_msg">Erfassen Ihre Kollegen Daten immer noch auf Papier? Empfehlen Sie Ihnen PA 2030 Collect.</string>
   <string name="leave_a_review">Geben Sie eine Play Store Bewertung ab</string>
   <string name="leave_a_review_msg">Ihre (hoffentlich positive) Bewertung steigert die Bekanntheit der App im Play Store.</string>
   <string name="odk_website">ODK-Webseite öffnen</string>
